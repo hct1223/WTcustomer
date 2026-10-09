@@ -1,0 +1,6 @@
+{
+  "name": "云上赛宝 · 委托下单",
+  "description": "云上赛宝微信小程序客户委托下单全流程系统，覆盖项目浏览、销售经理匹配、委托书填报、多样品动态字段、电子签名、订单与进度追踪、发票库管理及委托变更等完整业务链路。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
